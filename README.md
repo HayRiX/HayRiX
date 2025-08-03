@@ -1,5 +1,6 @@
 <!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:3D3D3D,100:888888&height=220&section=header&text=Abdellah%20Riyahi&fontSize=40&fontColor=ffffff&desc=Tech%20Craftsman%20%7C%20CNC%20Laser%20Technician%20%7C%20Python%20Lover&descSize=16&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:220220,100:8800ff&height=240&section=header&text=Abdellah%20Riyahi&fontSize=38&fontColor=ffffff&desc=Cutting‑Edge%20CNC%20Craftsman%20%E2%80%A2%20Python%20Tool‑Builder%20%E2%80%A2%20WordPress%20Creator&descSize=16&descAlignY=62)
+
 
 # 👋 Hello there! I'm **Abdellah Riyahi**
 
