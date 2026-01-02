@@ -12,7 +12,6 @@ I'm Abdellah, a technology enthusiast passionate about programming and building 
 
 ## 🧠 About Me
 
-* 🎂 Born in 2000
 * 🧩 I lean toward analytical and deep thinking
 * 🕶️ Dark Mode & minimal aesthetics lover
 * 🐱 Cat person
