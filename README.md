@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:220220,100:8800ff&height=240&section=header&text=Abdellah&fontSize=38&fontColor=ffffff&desc=Architecte%20en%20Technologies%20du%20Numérique%20•%20Aspiring%20SRE&descSize=16&descAlignY=62)
+![header](./github-header-banner.png)
 
 # Hello, I'm Abdellah
 
