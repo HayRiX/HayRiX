@@ -1,47 +1,43 @@
-<!-- Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:220220,100:8800ff&height=240&section=header&text=Abdellah&fontSize=38&fontColor=ffffff&desc=Architecte%20en%20Technologies%20du%20Numérique%20•%20Aspiring%20SRE&descSize=16&descAlignY=62)
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:220220,100:8800ff\&height=240\&section=header\&text=Abdellah\&fontSize=38\&fontColor=ffffff\&desc=Gamer%20•%20Aspiring%20Programmer%20•%20Music‑Driven%20Imagination\&descSize=16\&descAlignY=62)
+# Hello, I'm Abdellah
 
-# 👋 Hello, I'm **Abdellah**
+**Architecte en Technologies du Numérique (Trainee) | Aspiring Site Reliability Engineer**
 
-💻 **Aspiring Programmer** | 🎧 **Music‑driven imagination**
-
-I'm Abdellah, a technology enthusiast passionate about programming and building digital products. I prefer working quietly, focusing on quality, and improving myself step by step.
+I am currently training at 1337 (UM6P) with a strong focus on systems programming, backend architecture, and building reliable digital infrastructure. I prefer working quietly, diving deep into code, and letting the quality of my work speak for itself. 
 
 ---
 
-## 🧠 About Me
+## About Me
 
-* 🧩 I lean toward analytical and deep thinking
-* 🕶️ Dark Mode & minimal aesthetics lover
-* 🐱 Cat person
-* 🎯 I listen more than I speak, and build more than I show
-
----
-
-## 💻 Technical Interests
-
-* 🔹 Programming & Problem Solving
-* 🔹 Gaming & Competitive Esports
-* 🔹 Consumer Tech & Gaming Accessories
-* 🔹 Building Digital Communities
+* I lean toward analytical thinking, debugging complex issues, and understanding how systems work under the hood.
+* Passionate about low-level programming, computer architecture, and infrastructure.
+* Advocate for minimal aesthetics, clean code, and dark mode.
+* I listen more than I speak, and build more than I show.
 
 ---
 
-## 🎓 Education
+## Current Technical Stack
 
-* 🎓 **1337 School:** Peer‑to‑peer, project‑based software engineering education
-
----
-
-## 🚀 Focus & Goals
-
-* 🌱 Continuous learning without rushing, consistency over speed
+* **Languages:** C, Python
+* **Environments & Tools:** Linux (Fedora, Ubuntu), Git
 
 ---
 
-## 📫 Contact
+## Education
 
-* 💬 GitHub Discussions / Issues
+* **1337 Coding School (UM6P):** "Architecte en Technologies du Numérique" Track
+  * Peer-to-peer, project-based software engineering education.
+  * Focused on rigorous C programming, algorithms, multithreading, and systems architecture.
 
-> *"Quiet minds build powerful things."*
+---
+
+## Goals & Learning Trajectory (Next 6 Months)
+
+* **Languages:** Expanding my foundation to include **C++** and **Go**.
+* **Infrastructure:** Initiating my learning path into SRE methodologies, containerization, and system monitoring tools.
+* **Open Source:** Preparing for **GSoC 2027** by exploring and understanding the architecture of major open-source infrastructure projects.
+
+---
+
+> "Quiet minds build powerful systems."
