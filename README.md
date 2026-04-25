@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm **Abdellah**
 
-🎮 **Gamer** | 💻 **Aspiring Programmer** | 🎧 **Music‑driven imagination**
+💻 **Aspiring Programmer** | 🎧 **Music‑driven imagination**
 
 I'm Abdellah, a technology enthusiast passionate about programming and building digital products. I prefer working quietly, focusing on quality, and improving myself step by step.
 
@@ -30,13 +30,13 @@ I'm Abdellah, a technology enthusiast passionate about programming and building 
 
 ## 🎓 Education
 
-* 🎓 **1337 School** — Peer‑to‑peer, project‑based software engineering education
+* 🎓 **1337 School:** Peer‑to‑peer, project‑based software engineering education
 
 ---
 
 ## 🚀 Focus & Goals
 
-* 🌱 Continuous learning without rushing — consistency over speed
+* 🌱 Continuous learning without rushing, consistency over speed
 
 ---
 
