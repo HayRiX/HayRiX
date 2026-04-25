@@ -1,7 +1,5 @@
 ![header](./github-header-banner.png)
 
-# Hello, I'm Abdellah
-
 **Architecte en Technologies du Numérique (Trainee) | Aspiring Site Reliability Engineer**
 
 I am currently training at 1337 (UM6P) with a strong focus on systems programming, backend architecture, and building reliable digital infrastructure. I prefer working quietly, diving deep into code, and letting the quality of my work speak for itself. 
